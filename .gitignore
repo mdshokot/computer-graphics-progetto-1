@@ -92,3 +92,6 @@ vendor/
 *.tar.gz
 *.tar.bz2
 *.7z
+
+# Ignore specific folder x64
+x64/
